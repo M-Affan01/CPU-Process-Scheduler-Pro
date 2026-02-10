@@ -1,4 +1,4 @@
-# CPU-PRO PLATINUM V4.0 // THE DEFINITIVE EDITION 💎
+# 💎 CPU-PRO PLATINUM V4.0
 
 <div align="center">
 
