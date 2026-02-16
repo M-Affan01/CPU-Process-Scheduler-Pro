@@ -1,4 +1,4 @@
-# 💎 CPU-PRO PLATINUM V4.0
+# CPU-PRO PLATINUM V4.0
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 💎 Project Essence
+## Project Essence
 
 **CPU-PRO PLATINUM** is an ultra-modern, high-fidelity simulation suite engineered to demystify the complexities of Operating System scheduling. Built on the **V4.0 Platinum Engine**, this tool provides a production-grade environment for analyzing thread lifecycles, resource contention, and algorithmic efficiency. 
 
@@ -24,7 +24,7 @@ Unlike conventional academic scripts, PLATINUM V4.0 leverages an **SaaS-grade de
 
 ---
 
-## 🚀 Core Feature Matrix
+## Core Feature Matrix
 
 ### 1. High-Performance Execution Engines
 *   **FCFS (Sequential Batch Core)**: Implements precise arrival-order queuing with automated idle-time correction.
@@ -43,13 +43,13 @@ Unlike conventional academic scripts, PLATINUM V4.0 leverages an **SaaS-grade de
 
 ---
 
-## 🏗️ Architectural Mapping
+## Architectural Mapping
 
 The PLATINUM architecture is designed for **Horizontal Scalability** and **Stateless Reliability**.
 
-### 🧩 Component Hierarchy
+### Component Hierarchy
 
-```mermaid
+```
 graph LR
     subgraph "UI Layer (Platinum V4.0)"
         A[Dashboard Shell]
@@ -77,7 +77,7 @@ graph LR
 
 ---
 
-## ⚡ Algorithmic Engine (V3.0)
+## Algorithmic Engine (V3.0)
 
 | Algorithm | Complexity (Time) | Complexity (Space) | Primary Use Case |
 | :--- | :--- | :--- | :--- |
@@ -87,7 +87,7 @@ graph LR
 
 ---
 
-## 🛠️ Technical Stack Deep-Dive
+## Technical Stack Deep-Dive
 
 *   **Runtime**: Python 3.10.12 (Optimized for Windows/Linux interoperability)
 *   **Reactive UI**: Streamlit 1.32.0 (Customized with CSS3/Glassmorphism injectors)
@@ -98,9 +98,9 @@ graph LR
 
 ---
 
-## 📥 Installation Command Center
+## Installation Command Center
 
-### 🚀 Binary Setup (Windows/Linux)
+### Binary Setup (Windows/Linux)
 
 #### **Enterprise Anaconda Path (Manual)**
 ```powershell
@@ -113,7 +113,7 @@ graph LR
 
 ---
 
-## 🕹️ Usage Instruction Manual
+## Usage Instruction Manual
 
 ### Phase 1: Thread Registry
 1.  Locate the **Control Hub** on the left panel.
@@ -128,7 +128,7 @@ graph LR
 
 ---
 
-## 📜 Legal Documentation & Licensing
+## Legal Documentation & Licensing
 
 ### **The MIT License (MIT)**
 **Copyright (c) 2026 CPU-PRO PLATINUM DEVELOPERS**
@@ -146,7 +146,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 ---
 
-## 🤝 Acknowledgements & Contributions
+## Acknowledgements & Contributions
 This project has been made possible through the utilization of cutting-edge open-source technologies:
 - **Streamlit Development Team**: For providing a reactive framework that enables professional UI delivery.
 - **Plotly.js Community**: For the industry-standard visualization engine.
@@ -154,7 +154,7 @@ This project has been made possible through the utilization of cutting-edge open
 
 ---
 
-## � Detailed Contact Registry
+## Detailed Contact Registry
 
 For technical inquiries, enterprise deployment support, or academic collaboration, please utilize the following direct channels:
 
@@ -165,7 +165,5 @@ For technical inquiries, enterprise deployment support, or academic collaboratio
 
 ---
 <div align="center">
-    <i>TERMINAL STATE: STABLE // KERNEL_LOAD: 0.02ms // ALL SYSTEMS NOMINAL</i>
-    <br>
     <b>PLATINUM V4.0 // 2026 OFFICIAL RELEASE</b>
 </div>
